@@ -1,9 +1,10 @@
-	file modificado ATENÇÃO !!!
+<h1>Listas de coisas</h1>
 
 
+<h2>Comidas</h2>
 
-
-
-
-
-Olá sou o Alexandre !
+<ul>
+  <li>Bolos</li>
+  <li>Tostas</li>
+  <li>Sandes</li>
+</ul>
