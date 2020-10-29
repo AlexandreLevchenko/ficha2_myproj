@@ -1,9 +1,11 @@
-	file modificado ATENÇÃO !!!
+Este é o exemplo de um ficheiro texto file3
+
+<h2>Bebidas</h2>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 
 
-
-
-
-
-
-Olá sou o Alexandre !
